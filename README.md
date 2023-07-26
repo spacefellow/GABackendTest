@@ -1,14 +1,14 @@
 ## GreenatomTest
 
-This repository provides solutions to: trainee tasks, advanced DE/backend tasks. By going to the InternTest folder you can familiarize yourself with the solution to the intern task. The src folder contains the solution of the advanced task.
+This repository provides solutions to: trainee tasks, advanced DE/backend tasks. By going to the [InternTest](https://github.com/spacefellow/GABackendTest/tree/master/InternTest) folder you can familiarize yourself with the solution to the intern task. The [src](https://github.com/spacefellow/GABackendTest/tree/master/src) folder contains the solution of the advanced task.
 
 ### Set Up the app in Windows
 
 >Download the code
 ```
-$ git clone https://github.com/spacefellow/GreenatomTest
+$ git clone https://github.com/spacefellow/GABackendTest
 Create .dbenv and .dev_env files in root folder
-$ cd GreenatomTest
+$ cd GABackendTest
 ```
 
 >.dev_env contains
@@ -29,7 +29,7 @@ DB_NAME=db_name
 
 >Install modules VENV
 ```
-$ virtualenv env
+$ python -m venv env
 $ .\env\Scripts\activate
 $ pip install -r requirements.txt
 ```
@@ -49,9 +49,9 @@ At this point, the app runs at http://127.0.0.1:8000/
 
 >Download the code
 ```
-$ git clone https://github.com/spacefellow/
+$ git clone https://github.com/spacefellow/GABackendTest
 Create .dbenv and .dev_env files in root folder
-$ cd GreenatomTest
+$ cd GABackendTest
 ```
 
 >.dev_env contains
