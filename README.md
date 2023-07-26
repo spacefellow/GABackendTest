@@ -1,6 +1,6 @@
 ## GreenatomTest
 
-This repository provides solutions to: trainee tasks, advanced DE/backend tasks. By going to the [InternTest](https://github.com/spacefellow/GABackendTest/tree/master/InternTest) folder you can familiarize yourself with the solution to the intern task. The [src](https://github.com/spacefellow/GABackendTest/tree/master/src) folder contains the solution of the advanced task.
+This repository provides solutions to: trainee tasks, advanced DE/backend tasks. By going to the [InternTest](https://github.com/spacefellow/GABackendTest/tree/master/InternTest) folder you can familiarize yourself with the solution to the intern task. The [src](https://github.com/spacefellow/GABackendTest/tree/master/src) folder contains the solution of the advanced task. A [link](https://drive.google.com/file/d/1x7IG94MWkaOZ_38GR5pGioUArwFsOXDX/view?usp=sharing) to the database schema is also attached.
 
 ### Set Up the app in Windows
 
